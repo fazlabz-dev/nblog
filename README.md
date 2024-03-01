@@ -21,7 +21,7 @@ Posts are stored in a JSON object array.
 
 * `id` - post identifier, it can be either a number or a string.
 * `date` - date written in the following format: `DD-MM-YYYY`.
-* `content` - post content, can use Markdown.
+* `content` - post content, can use Markdown or HTML.
 
 ## License
 The specification is licensed under [Unlicense](LICENSE), meaning it's public domain.
